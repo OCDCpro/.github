@@ -1,1 +1,1 @@
-![sponsored by BMBF](bmbf.png)
+![sponsored by BMFTR](bmftr.png)
