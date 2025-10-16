@@ -6,7 +6,7 @@
 
 Kurzüberblick über das Verbundprojekt zur Stärkung souveränen, offenen Chipdesigns in Studium, Forschung und Weiterbildung. Ziel ist ein mehrstufiger Studierendenwettbewerb mit Open‑Source‑Toolchain, Security‑by‑Design‑Fokus und realen Tape‑out‑Pfaden.
 
-## Work Packages
+## Arbeitspakete (Work Packages)
 
 - **WP1 – Challenge: Konzeption, Systematik & Verstetigung** <br>
   Repo: [WP1](https://github.com/OCDCpro/WP1)  <br>
