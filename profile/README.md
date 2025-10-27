@@ -1,10 +1,19 @@
 <p style="text-align:right; margin:0;">
-  <img src="bmftr.png" alt="sponsored by BMFTR" width="200" />
+  <img src="bmftr.png" alt="sponsored by BMFTR" width="200" style="display:inline-block; vertical-align:middle; margin-right:10px;" />
 </p>
+
+
 
 # Open Chip Design Challenge Prototype (OCDCPro)
 
-Kurzüberblick über das Verbundprojekt zur Stärkung souveränen, offenen Chipdesigns in Studium, Forschung und Weiterbildung. Ziel ist ein mehrstufiger Studierendenwettbewerb mit Open‑Source‑Toolchain, Security‑by‑Design‑Fokus und realen Tape‑out‑Pfaden.
+Kurzüberblick über das Verbundprojekt zur Stärkung souveränen, offenen Chipdesigns in Studium, Forschung und Weiterbildung. Ziel ist ein mehrstufiger Studierendenwettbewerb mit Open‑Source‑Toolchain, Security‑by‑Design‑Fokus und realen Tape‑out‑Pfaden &rarr; die [__LAYR Open Chip Challenge__](https://github.com/OCDCpro/LAYR/tree/main).
+
+# <p style="text-align:right; margin:0;">
+  # <img src="https://github.com/user-attachments/assets/98f27bae-e238-4b50-bd76-c6b624b8f1aa" width="200"/>
+Mit der [__LAYR Open Chip Challenge__](https://github.com/OCDCpro/LAYR/tree/main) schaffen wir eine Plattform, auf der Studierende selbst zum Innovationstreiber werden: Gesucht sind kreative Open-Source-Chipdesigns, die in mehreren Wettbewerbsetappen technisch wachsen, echte Sicherheitsaspekte adressieren und bis hin zum physischen Tape-out begleitet werden. Im Fokus steht nicht nur technisches Können, sondern die aktive Mitgestaltung an digitalen Wertschöpfungsketten und Souveränität – von der Idee bis zur funktionsfähigen Siliziumlösung.
+
+__Hier gehts zur aktuellen Challenge:__ [LAYR 25/26: The Challenge](https://github.com/OCDCpro/LAYR/tree/main/challenge)
+</p>
 
 ## Arbeitspakete (Work Packages)
 
