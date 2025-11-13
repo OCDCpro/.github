@@ -2,6 +2,8 @@
   <img src="pics/bmftr.png" alt="sponsored by BMFTR" width="200" style="display:inline-block; vertical-align:middle; margin-right:10px;" />
 </p>
 
+![OCDCpro Logo](pics/OCDCpro_Logo_small.png)
+
 # Open Chip Design Challenge Prototype (OCDCPro)
 
 Kurzüberblick über das Verbundprojekt zur Stärkung souveränen, offenen Chipdesigns in Studium, Forschung und Weiterbildung. Ziel ist ein mehrstufiger Studierendenwettbewerb mit Open‑Source‑Toolchain, Security‑by‑Design‑Fokus und realen Tape‑out‑Pfaden &rarr; die [__LAYR Open Chip Challenge__](https://github.com/OCDCpro/LAYR/tree/main).
