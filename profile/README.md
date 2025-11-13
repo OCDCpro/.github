@@ -24,6 +24,10 @@ Kurzüberblick über das Verbundprojekt zur Stärkung souveränen, offenen Chipd
   Repo: [WP5](https://github.com/OCDCpro/WP5) <br>
   Inhalte: Prototypische Security‑by‑Design‑Challenge, Evaluations‑Board, Inbetriebnahme.
 
+- **WP6 – Dissemination, Community & Verstetigung**  
+  Repo: [WP6](https://github.com/OCDCpro/WP6) <br>
+  Inhalte: Outreach, Partner‑Einbindung, Dokumentation und offene Publikations‑Workflows.
+
 ### OCDCpro Quick links
 
 - Projektwebsite: https://ocdcpro.org
