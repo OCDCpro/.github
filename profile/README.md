@@ -41,3 +41,23 @@ Mit der [__LAYR Open Chip Challenge__](https://github.com/OCDCpro/LAYR/tree/main
 
 __Hier gehts zur aktuellen 2025/26 Challenge:__ [LAYR 25/26: The Challenge](https://github.com/OCDCpro/LAYR/tree/main/challenge)
 </p>
+
+# <p style="text-align:right; margin:0;">
+  # ![OCDCpro Educator Portal Logo](pics/Educator_Portal_Logo.png)
+Materials and instructions to run your own chip design challenge in classroom settings.
+
+### Build Your Own Course
+
+Get inspiration and guidance on how to set up your own chip design challenge course. Start from the handbook and adapt it to your needs. Learn about the process with introductory videos.
+
+### Find Teaching Materials
+
+Discover a variety of teaching materials, including presentations, worksheets, and project guides, to help you run your chip design challenge.
+
+### Get started with Tools
+
+Explore the tools and resources available to support your chip design challenge, including software, hardware, and online platforms.
+
+**Link to the OCDCpro Educator Portal:** [OCDCpro Educator Portal](https://ocdcpro.github.io/educator-portal/)
+
+**Link to the source code:** [Educator Portal source code repository](https://github.com/OCDCpro/educator-portal)
