@@ -38,7 +38,7 @@ Kurzüberblick über das Verbundprojekt zur Stärkung souveränen, offenen Chipd
 # <p style="text-align:right; margin:0;">
   # <img src="pics/LAYR_Logo.png" width="280"/>
 
-With the [__LAYR Open Chip Challenge__](https://github.com/OCDCpro/LAYR/tree/main), we are creating a platform on which students themselves become drivers of innovation: We are looking for creative open source chip designs that grow technically in several stages of the competition, address real security aspects, and are accompanied through to physical tape-out. The focus is not only on technical skills, but also on active participation in digital value chains and sovereignty - from the idea to the functional silicon solution.
+With the [__LAYR Open Chip Challenge__](https://github.com/OCDCpro/LAYR/tree/main), we are creating a platform on which students themselves become drivers of innovation: We are looking for creative open-source chip designs that grow technically in several stages of the competition, address real security aspects, and are accompanied through to physical tape-out. The focus is not only on technical skills, but also on active participation in digital value chains and sovereignty - from the idea to the functional silicon solution.
 
 **Link to the LAYR 2025/26 Challenge:** [LAYR 25/26: The Challenge](https://github.com/OCDCpro/LAYR/tree/main/challenge)
 </p>
