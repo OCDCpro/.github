@@ -22,7 +22,7 @@ Kurzüberblick über das Verbundprojekt zur Stärkung souveränen, offenen Chipd
   Repo: [WP3](https://github.com/OCDCpro/WP3) <br>
   Inhalte: Curricula, Lehr-/Onboarding‑Material, Beispielbibliothek, OER‑Publikation.
 
-- **WP5 – Demonstrator & Tape‑out (130 nm)**  
+- **WP5 – Wettbewerbs-Demonstrator mit einen 130 nm-Mikrochip**  
   Repo: [WP5](https://github.com/OCDCpro/WP5) <br>
   Inhalte: Prototypische Security‑by‑Design‑Challenge, Evaluations‑Board, Inbetriebnahme.
 
