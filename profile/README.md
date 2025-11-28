@@ -22,6 +22,10 @@ Kurzüberblick über das Verbundprojekt zur Stärkung souveränen, offenen Chipd
   Repo: [WP3](https://github.com/OCDCpro/WP3) <br>
   Inhalte: Curricula, Lehr-/Onboarding‑Material, Beispielbibliothek, OER‑Publikation.
 
+- **WP4 – Open-Source Process Design Kit (PDK)**  
+  Repo: [WP4](https://github.com/OCDCpro/WP4) <br>
+  Inhalte: Anpassung Open-Source-PDK, Trainingsdesign, Testserver, Docker-Image
+
 - **WP5 – Wettbewerbs-Demonstrator mit einen 130 nm-Mikrochip**  
   Repo: [WP5](https://github.com/OCDCpro/WP5) <br>
   Inhalte: Prototypische Security‑by‑Design‑Challenge, Evaluations‑Board, Inbetriebnahme.
